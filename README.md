@@ -1,2 +1,5 @@
 # Hello-world
-nothing
+<?
+php
+echo"hello world"
+?>
